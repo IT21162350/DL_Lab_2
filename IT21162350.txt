@@ -1,2 +1,8 @@
 Q1.
 When the number of hidden nodes are increased accuracy of the model is increasing and also because of that computational cost also increasing. 
+
+Q2.
+There are 3 stages in pattern of the accuracy when the hidden nodes are increasing. 
+  a. Increasing: This is the stage with the hidden layers are increasing, accuracy of the model is also increasing. 
+  b. Optimal Range: This is the range that the model can highest hidden nodes. This will give the best performance (Accuracy) of the model.
+  c. Overfitting: After the optimal range stage, when the hidden layers are increasing accuracy of the model will be discreased. 
